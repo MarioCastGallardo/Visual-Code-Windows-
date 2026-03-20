@@ -1,0 +1,10 @@
+C:\Users\macok\source\repos\Practica 8\Practica 8\obj\Debug\Practica 8.csproj.AssemblyReference.cache
+C:\Users\macok\source\repos\Practica 8\Practica 8\obj\Debug\Practica_8.Form1.resources
+C:\Users\macok\source\repos\Practica 8\Practica 8\obj\Debug\Practica_8.Properties.Resources.resources
+C:\Users\macok\source\repos\Practica 8\Practica 8\obj\Debug\Practica 8.csproj.GenerateResource.cache
+C:\Users\macok\source\repos\Practica 8\Practica 8\obj\Debug\Practica 8.csproj.CoreCompileInputs.cache
+C:\Users\macok\source\repos\Practica 8\Practica 8\bin\Debug\Practica 8.exe.config
+C:\Users\macok\source\repos\Practica 8\Practica 8\bin\Debug\Practica 8.exe
+C:\Users\macok\source\repos\Practica 8\Practica 8\bin\Debug\Practica 8.pdb
+C:\Users\macok\source\repos\Practica 8\Practica 8\obj\Debug\Practica 8.exe
+C:\Users\macok\source\repos\Practica 8\Practica 8\obj\Debug\Practica 8.pdb

@@ -1,0 +1,10 @@
+C:\Users\macok\source\repos\Programacion act#7\Programacion act#7\obj\Debug\Programacion act#7.csproj.AssemblyReference.cache
+C:\Users\macok\source\repos\Programacion act#7\Programacion act#7\obj\Debug\Programacion_act_7.Form1.resources
+C:\Users\macok\source\repos\Programacion act#7\Programacion act#7\obj\Debug\Programacion_act_7.Properties.Resources.resources
+C:\Users\macok\source\repos\Programacion act#7\Programacion act#7\obj\Debug\Programacion act#7.csproj.GenerateResource.cache
+C:\Users\macok\source\repos\Programacion act#7\Programacion act#7\obj\Debug\Programacion act#7.csproj.CoreCompileInputs.cache
+C:\Users\macok\source\repos\Programacion act#7\Programacion act#7\bin\Debug\Programacion act#7.exe.config
+C:\Users\macok\source\repos\Programacion act#7\Programacion act#7\bin\Debug\Programacion act#7.exe
+C:\Users\macok\source\repos\Programacion act#7\Programacion act#7\bin\Debug\Programacion act#7.pdb
+C:\Users\macok\source\repos\Programacion act#7\Programacion act#7\obj\Debug\Programacion act#7.exe
+C:\Users\macok\source\repos\Programacion act#7\Programacion act#7\obj\Debug\Programacion act#7.pdb
