@@ -1,0 +1,10 @@
+C:\Users\macok\source\repos\Actividades # Parte three\Practica 3.9\Practica 3.9\bin\Debug\Practica 3.9.exe.config
+C:\Users\macok\source\repos\Actividades # Parte three\Practica 3.9\Practica 3.9\bin\Debug\Practica 3.9.exe
+C:\Users\macok\source\repos\Actividades # Parte three\Practica 3.9\Practica 3.9\bin\Debug\Practica 3.9.pdb
+C:\Users\macok\source\repos\Actividades # Parte three\Practica 3.9\Practica 3.9\obj\Debug\Practica 3.9.csproj.AssemblyReference.cache
+C:\Users\macok\source\repos\Actividades # Parte three\Practica 3.9\Practica 3.9\obj\Debug\Practica_3._9.Form1.resources
+C:\Users\macok\source\repos\Actividades # Parte three\Practica 3.9\Practica 3.9\obj\Debug\Practica_3._9.Properties.Resources.resources
+C:\Users\macok\source\repos\Actividades # Parte three\Practica 3.9\Practica 3.9\obj\Debug\Practica 3.9.csproj.GenerateResource.cache
+C:\Users\macok\source\repos\Actividades # Parte three\Practica 3.9\Practica 3.9\obj\Debug\Practica 3.9.csproj.CoreCompileInputs.cache
+C:\Users\macok\source\repos\Actividades # Parte three\Practica 3.9\Practica 3.9\obj\Debug\Practica 3.9.exe
+C:\Users\macok\source\repos\Actividades # Parte three\Practica 3.9\Practica 3.9\obj\Debug\Practica 3.9.pdb
