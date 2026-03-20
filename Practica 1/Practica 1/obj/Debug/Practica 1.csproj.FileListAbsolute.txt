@@ -1,0 +1,10 @@
+C:\Users\macok\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+C:\Users\macok\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+C:\Users\macok\source\repos\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+C:\Users\macok\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.AssemblyReference.cache
+C:\Users\macok\source\repos\Practica 1\Practica 1\obj\Debug\Practica_1.Form1.resources
+C:\Users\macok\source\repos\Practica 1\Practica 1\obj\Debug\Practica_1.Properties.Resources.resources
+C:\Users\macok\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.GenerateResource.cache
+C:\Users\macok\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\macok\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+C:\Users\macok\source\repos\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
