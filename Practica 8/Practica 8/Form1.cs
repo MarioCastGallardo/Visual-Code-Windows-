@@ -24,7 +24,7 @@ namespace Practica_8
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -69,7 +69,7 @@ namespace Practica_8
 
         private void button6_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
         private void btnCalcularCubo_Click(object sender, EventArgs e)
@@ -148,32 +148,70 @@ namespace Practica_8
 
         private void button11_Click(object sender, EventArgs e)
         {
-
+            txtLadoOct.Text = "";
+            txtAreaOct.Text = "";
+            txtVolumenOct.Text = "";
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-
+            areaCir.Text = "";
+            radioCirc.Text = "";
+            VolumenCir.Text = "";
         }
 
         private void btnBorrarTri_Click(object sender, EventArgs e)
         {
-
+            txtBaseTri.Text = "";
+            txtAlturaTri.Text = "";
+            txtAreaTri.Text = "";
         }
 
         private void button4_Click_1(object sender, EventArgs e)
         {
-
+            this.Close(); 
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-
+            txtRadioCil.Text = "";
+            txtAlturaCil.Text = "";
+            txtAreaCil.Text = "";
+            txtVolumenCil.Text ="";
         }
 
         private void button6_Click_1(object sender, EventArgs e)
         {
+           txtDiagMayor.Text = "";
+            txtDiagMenor.Text = "";
+            txtAreaRombo.Text= "";
+        }
 
+        private void tabPage2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            txtLadoCubo.Text = "";
+            txtAreaCubo.Text = "";
+            txtVolumenCubo.Text = "";
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

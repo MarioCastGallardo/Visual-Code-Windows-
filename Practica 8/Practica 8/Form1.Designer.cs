@@ -260,6 +260,7 @@
             this.tabPage2.Size = new System.Drawing.Size(792, 425);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Triangulo ";
+            this.tabPage2.Click += new System.EventHandler(this.tabPage2_Click);
             // 
             // btnSalirTri
             // 
@@ -388,6 +389,7 @@
             this.button5.TabIndex = 9;
             this.button5.Text = "Borrar";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // button4
             // 
@@ -505,6 +507,7 @@
             this.button8.TabIndex = 11;
             this.button8.Text = "Salir";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.button8_Click);
             // 
             // button7
             // 
@@ -629,6 +632,7 @@
             this.button9.TabIndex = 9;
             this.button9.Text = "salir";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // button6
             // 
@@ -746,6 +750,7 @@
             this.button12.TabIndex = 9;
             this.button12.Text = "Salir";
             this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.button12_Click);
             // 
             // button11
             // 
